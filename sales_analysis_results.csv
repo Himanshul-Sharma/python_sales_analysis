@@ -1,0 +1,11 @@
+Product,Category,Quantity,Price,City,Sales
+Laptop,Electronics,2,50000,Delhi,100000
+Mobile,Electronics,5,15000,Mumbai,75000
+Tablet,Electronics,3,20000,Chandigarh,60000
+Laptop,Electronics,1,50000,Delhi,50000
+Mobile,Electronics,4,15000,Mumbai,60000
+Tablet,Electronics,6,20000,Chandigarh,120000
+Laptop,Electronics,2,50000,Delhi,100000
+Mobile,Electronics,3,15000,Mumbai,45000
+Tablet,Electronics,4,20000,Chandigarh,80000
+Laptop,Electronics,1,50000,Delhi,50000
